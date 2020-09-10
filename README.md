@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-<!--
-**zhoushengisnoob/zhoushengisnoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm zhousheng(周晟) 
 
-Here are some ideas to get you started:
+I am an Assisant Professor at Zhejiang Univeristy(ZJU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on **(Network) Data Mining**, **Graph Neural Networks(GNNs)** and **Machine Learning**
+- 😄 I love knowledge sharing and open-source
+- ⚡ I really enjoy playing badminton!
+
 
 <hr>
 
