@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm zhousheng(周晟). Currently, I am an Assisant Professor at Zhejiang Univeristy(ZJU) working on **(Network) Data Mining**, **Graph Neural Networks(GNNs)** and **Machine Learning**
+I'm zhousheng(周晟). Currently, I am an Associate Professor at Zhejiang Univeristy(ZJU) working on **(Network) Data Mining**, **Machine Learning** and **Accessibility**
 
 <hr>
 
